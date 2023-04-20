@@ -22,8 +22,5 @@ export class PersonaService {
         },
     ]
 
-    getPersonas():string{
 
-        return this.personas;
-    }
 }
